@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "kevin Crespo",
+      "empresa": "macalele",
+      "email": "pacoconchetumare9@gmail.com",
+      "telefono": "2323344",
+      "notas": "vvv",
+      "id": 3
+    },
+    {
+      "nombre": "kevin",
+      "empresa": "macalele",
+      "email": "pacoconchetumare9@gmail.com",
+      "telefono": "2323344",
+      "notas": "vvv",
+      "id": 4
+    },
+    {
+      "nombre": "Gaby",
+      "empresa": "gabypasteles",
+      "email": "brucxxe@gmail.com",
+      "telefono": "4534535",
+      "notas": "sfsfd",
+      "id": 5
+    },
+    {
+      "nombre": "Ana",
+      "empresa": "rgrt",
+      "email": "jhoncenamateo@gmail.com",
+      "telefono": "324324234",
+      "notas": "sdff",
+      "id": 6
+    },
+    {
+      "nombre": "Andy ",
+      "empresa": "la mocoxxxx",
+      "email": "andy@gmail.com",
+      "telefono": "234234354",
+      "notas": "vv",
+      "id": 7
+    },
+    {
+      "nombre": "samy",
+      "empresa": "macalelesss",
+      "email": "samy@gmail.com",
+      "telefono": "23543545353",
+      "notas": "nnn",
+      "id": 8
+    }
+  ]
+}
